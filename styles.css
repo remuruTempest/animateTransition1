@@ -1,0 +1,16 @@
+html{
+    font-size: 16px;
+    text-align:center;
+    font-family: 'Darumadrop One', cursive;
+}
+h1{
+    font-size: 5em;
+}
+p{
+    font-size: 2em;
+    font-family: 'Darumadrop One', cursive;
+
+}
+body{
+    background-color: aqua;
+}
